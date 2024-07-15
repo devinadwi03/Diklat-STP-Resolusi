@@ -1,0 +1,11 @@
+* Buat logika agar saat registrasi diklat harus ada kesesuaian bahwa dia telah punya akun dan sedang aktif
+* Buat logika verify Email saat registrasi akun
+* Buat logika untuk token saat login akun
+* Buat logika untuk kesesuaian kolom password dan konfirmasi password saat daftar akun 
+* Buat logika satu akun hanya punya satu data registrasi
+* Buat logika login yang mengupdate status akun
+* Tambah logika login agar bisa login pakai username/email
+* Buat logika logout yang mengupdate status akun dan terakhir login
+* Buat agar waktunya berdasarkan zona waktu indonesia(jakarta)
+* Buat logika agar bisa login sebagai admin 
+* Buat logika agar data pendaftar dikirim ke email/drive admin (spreedsheet menjadi pilihan lain)   
